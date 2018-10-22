@@ -7,7 +7,7 @@ setTimeout(function () {
 var time=0;
 var timer = setInterval(function () {
     time += 2;
-    console.log(time + ' sec is passed');
+    console.log(time + ' sec is passed');//iuuhkjhjg
     if(time > 10){
         clearInterval(timer);
     }
